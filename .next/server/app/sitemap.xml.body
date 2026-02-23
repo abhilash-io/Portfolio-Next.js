@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://abhilashsahu.github.io</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://abhilashsahu.github.io" />
+<lastmod>2026-02-23T11:15:04.424Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://abhilashsahu.github.io/projects</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://abhilashsahu.github.io/projects" />
+<lastmod>2026-02-23T11:15:04.424Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://abhilashsahu.github.io/about</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://abhilashsahu.github.io/about" />
+<lastmod>2026-02-23T11:15:04.424Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+</urlset>
